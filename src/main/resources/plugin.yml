@@ -1,0 +1,7 @@
+name: ConnectWithWebAPI
+version: @version@
+main: party.morino.apipush.connectwithwebapi.ConnectWithWebAPI
+api-version: 1.13
+commands:
+  auction:
+    description: オークションAPIへリクエストします
